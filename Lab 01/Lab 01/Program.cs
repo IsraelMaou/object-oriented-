@@ -17,9 +17,11 @@ namespace Lab_01
             {
                 Console.WriteLine(item.nome);
                 Console.WriteLine($"Idade: {item.idade} anos");
+                Console.WriteLine($"Peso: {item.peso}kg");
                 Console.WriteLine($"Altura: {item.altura}m");
-                Console.WriteLine($"{item.IMC} {item.GetIMCSituation(item.IMC)}");
-                Console.WriteLine($"O seu peso ideal é: {item.PesoMeta}");
+                Console.WriteLine($"IMC: {item.IMC.ToString("N2")} - {item.GetIMCSituation(item.IMC)}");
+                if (!(item.IMC >= 18.5 && item.IMC <= 24.9))
+                    Console.WriteLine($"Seu peso ideal: {item.PesoMeta.ToString("N2")}kg");
                 Console.WriteLine();
             }
             Console.ReadLine();
