@@ -1,0 +1,7 @@
+D:\Arquivos e midia\GitHub Aulas de programação\object-oriented-\Lab 02\Lab 02\bin\Debug\Lab 02.exe.config
+D:\Arquivos e midia\GitHub Aulas de programação\object-oriented-\Lab 02\Lab 02\bin\Debug\Lab 02.exe
+D:\Arquivos e midia\GitHub Aulas de programação\object-oriented-\Lab 02\Lab 02\bin\Debug\Lab 02.pdb
+D:\Arquivos e midia\GitHub Aulas de programação\object-oriented-\Lab 02\Lab 02\obj\Debug\Lab 02.csprojAssemblyReference.cache
+D:\Arquivos e midia\GitHub Aulas de programação\object-oriented-\Lab 02\Lab 02\obj\Debug\Lab 02.csproj.CoreCompileInputs.cache
+D:\Arquivos e midia\GitHub Aulas de programação\object-oriented-\Lab 02\Lab 02\obj\Debug\Lab 02.exe
+D:\Arquivos e midia\GitHub Aulas de programação\object-oriented-\Lab 02\Lab 02\obj\Debug\Lab 02.pdb
